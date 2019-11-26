@@ -6,6 +6,30 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - Exemplo02For",
+            "request": "launch",
+            "mainClass": "exemplos.Exemplo02For"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - exemplo02",
+            "request": "launch",
+            "mainClass": "exemplos.exemplo02"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Exemplos",
+            "request": "launch",
+            "mainClass": "exemplos.Exemplos"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TiposPrimitivos",
+            "request": "launch",
+            "mainClass": "TiposPrimitivos"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - TiposPrimitivos",
             "request": "launch",
             "mainClass": "tiposprimitivos.TiposPrimitivos"
