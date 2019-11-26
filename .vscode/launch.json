@@ -6,6 +6,12 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - TiposPrimitivos",
+            "request": "launch",
+            "mainClass": "tiposprimitivos.TiposPrimitivos"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - Argumentos",
             "request": "launch",
             "mainClass": "Argumentos"
