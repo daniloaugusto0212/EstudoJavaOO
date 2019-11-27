@@ -6,6 +6,18 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - CadastroDeClientes",
+            "request": "launch",
+            "mainClass": "cadastrodeclientes.CadastroDeClientes"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - CarroObj",
+            "request": "launch",
+            "mainClass": "exemplos.CarroObj"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - Exemplos2",
             "request": "launch",
             "mainClass": "exemplos2.Exemplos2"
