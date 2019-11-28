@@ -6,6 +6,12 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - ContaBanco",
+            "request": "launch",
+            "mainClass": "contabanco.ContaBanco"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - CadastroDeClientes",
             "request": "launch",
             "mainClass": "cadastrodeclientes.CadastroDeClientes"
