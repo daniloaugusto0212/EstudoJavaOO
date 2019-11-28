@@ -1,11 +1,14 @@
 
 package cadastroclientes;
 
+import java.util.HashSet;
+import java.util.Iterator;
+
 public class CadastroClientes {
 
     public static void main(String[] args) {
         
-        Pessoas cliente1 = new Pessoas();
+       /Pessoas cliente1 = new Pessoas();
         int totalPessoas = cliente1.getTotalDeClientes();
         cliente1.setContato(111999355);
         cliente1.setNomeCliente("Danilo");

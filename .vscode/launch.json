@@ -6,6 +6,30 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - Alunos",
+            "request": "launch",
+            "mainClass": "exemplos.Alunos"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Fila",
+            "request": "launch",
+            "mainClass": "exemplos.Fila"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Produto",
+            "request": "launch",
+            "mainClass": "exemplos.Produto"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - CadastroClientes",
+            "request": "launch",
+            "mainClass": "cadastroclientes.CadastroClientes"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - ContaBanco",
             "request": "launch",
             "mainClass": "contabanco.ContaBanco"

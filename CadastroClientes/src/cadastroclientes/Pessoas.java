@@ -16,8 +16,11 @@ public class Pessoas {
         return Pessoas.totalDeClientes;
     }
 
-    public int getContato() {
-        System.out.println("Digite o número de contato: ");
+    Pessoas(String joão) {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+    }
+
+    public int getContato() {        
         return contato;
     }
 
