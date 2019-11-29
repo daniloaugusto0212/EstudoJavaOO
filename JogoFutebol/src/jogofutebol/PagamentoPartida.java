@@ -1,4 +1,7 @@
-/*package jogofutebol;
+/*
+AGREGAÇÃO
+
+package jogofutebol;
 public class PagamentoPartida {
     //Declarando classes que são do tipo de outras classes
     public Gol gol = new Gol;
