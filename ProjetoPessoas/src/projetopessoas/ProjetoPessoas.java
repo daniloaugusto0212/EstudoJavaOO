@@ -17,7 +17,7 @@ public class ProjetoPessoas {
         p4.setSexo("F");
         p2.setIdade(18);
 
-        p2.setCurso("Informatica");
+       // p2.setCurso("Informatica"); //erro somente no VSCode
         p3.setSalario(2500.75f);
         p4.setSetor("Estoque");
         
