@@ -1,3 +1,4 @@
+/*
 public class CorpoHumano {
     //declarando variável do tipo Membro
     public Membro membro1 = new Membro;
@@ -28,3 +29,4 @@ public class CorpoHumano {
 
 
 }
+*/

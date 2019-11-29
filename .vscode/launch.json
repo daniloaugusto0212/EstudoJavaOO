@@ -6,6 +6,12 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - ProjetoPessoas",
+            "request": "launch",
+            "mainClass": "projetopessoas.ProjetoPessoas"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - Alunos",
             "request": "launch",
             "mainClass": "exemplos.Alunos"
