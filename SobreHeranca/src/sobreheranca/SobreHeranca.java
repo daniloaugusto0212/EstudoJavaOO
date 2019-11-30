@@ -32,6 +32,28 @@ public class SobreHeranca {
         b1.setBolsa(12.5f);
         b1.setSexo("M");
         b1.pagarMensalidade();
+        
+        System.out.println("-----------------------");
+        System.out.println("Dados Professor");
+        Professor p1 = new Professor();
+        p1.setNome("Maria");
+        p1.setIdade(45);
+        p1.setSexo("F");
+        p1.setEspecialidade("História");
+        p1.setSalario(5000.80f);
+        System.out.println(p1.toString());
+        
+        System.out.println("-----------------------");
+        System.out.println("Dados Aluno Técnico");
+        AlunoTecnico at = new AlunoTecnico();
+        at.setNome("Roberto");
+        at.setIdade(18);
+        at.setSexo("M");
+        System.out.println(at.toString());
+        
+        
+        
+        
     }
     
 }
